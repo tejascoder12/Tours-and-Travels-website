@@ -1,0 +1,88 @@
+/* custom.css */
+
+/* Center the login and signup forms */
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url('T:\Xampp\htdocs\tvTemplate\-Responsive-Travel-Website-Frontend-and-Backend-\images\michael-humphries-Z_6_ezJV-m0-unsplash.jpg'); /* Add your background image path */
+    background-size: cover;
+    background-position: center;
+}
+
+.card {
+    width: 100%;
+    max-width: 400px;
+}
+
+/* Add spacing between form elements */
+.form-group {
+    margin-bottom: 20px;
+}
+
+/* Change the background color */
+body {
+    background-color: #f2f2f2;
+}
+
+/* Center the link to switch between login and signup */
+.card-body p {
+    text-align: center;
+}
+
+/* Style links */
+.card-body a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+.card-body a:hover {
+    text-decoration: underline;
+}
+
+/* Customize button styles */
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+    transition: background-color 0.3s; /* Add hover effect */
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+/* Style form input fields */
+.form-control {
+    border: 1px solid #ccc;
+}
+
+/* Add padding to the top and bottom of the form */
+.card-body {
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8); /* Add a semi-transparent white background */
+}
+
+/* Style for background images and background effects */
+#login {
+    background-image: url('T:\Xampp\htdocs\tvTemplate\-Responsive-Travel-Website-Frontend-and-Backend-\images\michael-humphries-Z_6_ezJV-m0-unsplash.jpg'); /* Add your background image path */
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    position: relative;
+}
+
+#signup {
+    background-image: url('T:\Xampp\htdocs\tvTemplate\-Responsive-Travel-Website-Frontend-and-Backend-\images\michael-humphries-Z_6_ezJV-m0-unsplash.jpg'); /* Add your background image path */
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    position: relative;
+}
+
+/* Hover effect for buttons */
+.btn-primary:hover {
+    background-color: #0056b3;
+    transform: scale(1.05); /* Add a scale effect on hover */
+}
+
