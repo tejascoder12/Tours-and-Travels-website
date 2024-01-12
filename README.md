@@ -1,9 +1,7 @@
-# Tours-and-Travels-website
-TSSB Tourism: Your stylish gateway to seamless travel! Crafted with PHP and MySQL, this website offers user-friendly features, including personalized navigation, user authentication, and a sleek Contact Us form. Explore hassle-free adventures with TSSB Tourism! 🌍✈️
 
 # TSSB Tourism Website
 
-TSSB Tourism is a captivating travel website designed to offer users a seamless and personalized experience. This PHP-powered platform, with its sleek Bootstrap design, provides a user-friendly interface for exploring travel destinations, services, and exclusive offers. The website is equipped with features like user authentication and a stylish Contact Us form, ensuring a dynamic and hassle-free adventure-planning experience.
+TSSB Tourism is a captivating travel website designed to offer users a seamless and personalized experience. This PHP-powered platform, with its sleek Bootstrap design, provides a user-friendly interface for exploring travel destinations, services, and exclusive offers. The website is equipped with features like user authentication and a stylish Contact Us form, ensuring a dynamic and hassle-free adventure-planning experience with TSSB Tourism! 🌍✈️.
 
 ## Objective
 
